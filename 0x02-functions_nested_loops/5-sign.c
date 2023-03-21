@@ -1,11 +1,12 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
- * _sign - function for sign of a number
+ * print_sign - function that prints signs
  *
- * @n - function parameter
+ * @n: function parameter
  * Return: 1, 0 and -1
  */
+
 
 int print_sign(int n)
 {

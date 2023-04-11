@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 	char x = argc - 1;
 
 	(void) argv;
-	printf("%d/n", x);
+	printf("%d\n", x);
 
 	return (0);
 }
